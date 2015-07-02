@@ -1,6 +1,6 @@
 import junit.framework.TestSuite;
 import junit.textui.TestRunner;
-import test.FiltersTest;
+import test.com.panton.tape.FiltersTest;
 
 
 public class AllTests {
